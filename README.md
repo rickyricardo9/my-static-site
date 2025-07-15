@@ -4,3 +4,4 @@ This is a repostitory containing the files for the [demonstration website](https
 
 You can follow along the tutorial series to recreate these files while learning how to use HTML. Or use these files as a test site for following our tutorial [How To Deploy a Static Website to the Cloud with DigitalOcean’s App Platform](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-website-to-the-cloud-with-digitalocean-s-app-platform).  
 
+Version 2
